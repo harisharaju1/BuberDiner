@@ -1,0 +1,12 @@
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\bin\Debug\net7.0\BuberDiner.Domain.deps.json
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\bin\Debug\net7.0\BuberDiner.Domain.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\bin\Debug\net7.0\BuberDiner.Domain.pdb
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\obj\Debug\net7.0\BuberDiner.Domain.csproj.AssemblyReference.cache
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\obj\Debug\net7.0\BuberDiner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\obj\Debug\net7.0\BuberDiner.Domain.AssemblyInfoInputs.cache
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\obj\Debug\net7.0\BuberDiner.Domain.AssemblyInfo.cs
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\obj\Debug\net7.0\BuberDiner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\obj\Debug\net7.0\BuberDiner.Domain.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\obj\Debug\net7.0\refint\BuberDiner.Domain.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\obj\Debug\net7.0\BuberDiner.Domain.pdb
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Domain\obj\Debug\net7.0\ref\BuberDiner.Domain.dll

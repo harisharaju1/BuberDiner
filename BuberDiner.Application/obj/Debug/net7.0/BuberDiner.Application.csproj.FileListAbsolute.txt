@@ -1,0 +1,15 @@
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\bin\Debug\net7.0\BuberDiner.Application.deps.json
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\bin\Debug\net7.0\BuberDiner.Application.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\bin\Debug\net7.0\BuberDiner.Application.pdb
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\BuberDiner.Application.csproj.AssemblyReference.cache
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\BuberDiner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\BuberDiner.Application.AssemblyInfoInputs.cache
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\BuberDiner.Application.AssemblyInfo.cs
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\BuberDiner.Application.csproj.CoreCompileInputs.cache
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\BuberDiner.Application.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\refint\BuberDiner.Application.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\BuberDiner.Application.pdb
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\ref\BuberDiner.Application.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\bin\Debug\net7.0\BuberDiner.Domain.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\bin\Debug\net7.0\BuberDiner.Domain.pdb
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Application\obj\Debug\net7.0\BuberDiner.Application.csproj.CopyComplete

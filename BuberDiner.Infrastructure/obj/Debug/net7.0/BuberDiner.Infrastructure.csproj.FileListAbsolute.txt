@@ -1,0 +1,17 @@
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\bin\Debug\net7.0\BuberDiner.Infrastructure.deps.json
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\bin\Debug\net7.0\BuberDiner.Infrastructure.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\bin\Debug\net7.0\BuberDiner.Infrastructure.pdb
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\BuberDiner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\BuberDiner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\BuberDiner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\BuberDiner.Infrastructure.AssemblyInfo.cs
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\BuberDiner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\BuberDiner.Infrastructure.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\refint\BuberDiner.Infrastructure.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\BuberDiner.Infrastructure.pdb
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\ref\BuberDiner.Infrastructure.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\bin\Debug\net7.0\BuberDiner.Application.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\bin\Debug\net7.0\BuberDiner.Domain.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\bin\Debug\net7.0\BuberDiner.Application.pdb
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\bin\Debug\net7.0\BuberDiner.Domain.pdb
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Infrastructure\obj\Debug\net7.0\BuberDiner.Infrastructure.csproj.CopyComplete
