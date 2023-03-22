@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jUkVdIJiMM2vJWBUPwLKAvLytZhJqcMmfx/Xbso/Ih5CVQbHzHq1ea+/9YkWMD7mRZJVrEHvE3dgLakXH3dX8w==",
+  "dgSpecHash": "xrVQJEEjVcbBnyz8ribK7LEpR4ZYU2GlONefOVb0CKPNupFWm98GbTIwOsr2dQuc1x2CH+kfs0e1UGZjRhiKiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\91874\\Documents\\practice_projects\\BuberDiner\\BuberDiner\\BuberDiner.Application\\BuberDiner.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\91874\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\91874\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\91874\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\91874\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
