@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kppLESI5oksR05KFyRMbrRBuFEwQ7EEswtdpUNTxzMPEKANH/WE9WT+1ZTCAoyGwn5Tk/5XAtAEII25Jl+v83Q==",
+  "dgSpecHash": "u8C2fc+FWLIp0gdnfXpJdv3mkgVDk0M1C4tUxuGXVFRaoEgJ+Eu3PCoepERHIPmIj26gvl+E+OkvJvgcqO7wXg==",
   "success": true,
   "projectFilePath": "C:\\Users\\91874\\Documents\\practice_projects\\BuberDiner\\BuberDiner\\BuberDiner.Api\\BuberDiner.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\91874\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -19,7 +20,6 @@
     "C:\\Users\\91874\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.27.0\\microsoft.identitymodel.tokens.6.27.0.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\91874\\.nuget\\packages\\oneof\\3.0.243\\oneof.3.0.243.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.27.0\\system.identitymodel.tokens.jwt.6.27.0.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\91874\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",

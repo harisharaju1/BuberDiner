@@ -50,9 +50,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "oneof": {
+            "ErrorOr": {
               "target": "Package",
-              "version": "[3.0.243, )"
+              "version": "[1.2.1, )"
             }
           },
           "imports": [
@@ -118,13 +118,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.0.0, )"
-            },
-            "oneof": {
-              "target": "Package",
-              "version": "[3.0.243, )"
             }
           },
           "imports": [
@@ -237,6 +237,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
