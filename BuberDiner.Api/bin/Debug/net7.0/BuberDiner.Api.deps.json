@@ -10,7 +10,8 @@
         "dependencies": {
           "BuberDiner.Application": "1.0.0",
           "BuberDiner.Contracts": "1.0.0",
-          "BuberDiner.Infrastructure": "1.0.0"
+          "BuberDiner.Infrastructure": "1.0.0",
+          "OneOf": "3.0.243"
         },
         "runtime": {
           "BuberDiner.Api.dll": {}
@@ -103,6 +104,14 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+      "OneOf/3.0.243": {
+        "runtime": {
+          "lib/netstandard2.0/OneOf.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "System.IdentityModel.Tokens.Jwt/6.27.0": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "6.27.0",
@@ -134,7 +143,8 @@
       "BuberDiner.Application/1.0.0": {
         "dependencies": {
           "BuberDiner.Domain": "1.0.0",
-          "Microsoft.Extensions.DependencyInjection": "7.0.0"
+          "Microsoft.Extensions.DependencyInjection": "7.0.0",
+          "OneOf": "3.0.243"
         },
         "runtime": {
           "BuberDiner.Application.dll": {}
@@ -274,6 +284,13 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "OneOf/3.0.243": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7zbyWxAbh0FZTVTpfqd8lIo9ejgoxPuadZgYTZLCq8aCtLQ5biQZ8gv61hpCbi/XuII0JlqfOTfocvv4wu8Xdw==",
+      "path": "oneof/3.0.243",
+      "hashPath": "oneof.3.0.243.nupkg.sha512"
     },
     "System.IdentityModel.Tokens.Jwt/6.27.0": {
       "type": "package",

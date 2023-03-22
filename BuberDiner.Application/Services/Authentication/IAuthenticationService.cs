@@ -1,8 +1,11 @@
+using BuberDiner.Application.Common.Errors;
+using OneOf;
+
 namespace BuberDiner.Application.Services.Authentication;
 
 public interface IAuthenticationService
 {
-    AuthenticationResult Login(string email, string password);
+    OneOf<AuthenticationResult, DuplicateEmailError> Login(string email, string password);
 
-    AuthenticationResult Register(string firstName, string lastName, string email, string password);
+    OneOf<AuthenticationResult, DuplicateEmailError> Register(string firstName, string lastName, string email, string password);
 }

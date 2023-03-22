@@ -38,3 +38,4 @@ C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Api\
 C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\91874\Documents\practice_projects\BuberDiner\BuberDiner\BuberDiner.Api\bin\Debug\net7.0\OneOf.dll

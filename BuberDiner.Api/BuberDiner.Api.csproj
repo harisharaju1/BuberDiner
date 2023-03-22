@@ -13,4 +13,8 @@
     <ProjectReference Include="..\BuberDiner.Infrastructure\BuberDiner.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="oneof" Version="3.0.243" />
+  </ItemGroup>
+
 </Project>
